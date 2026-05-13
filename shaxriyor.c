@@ -1,4 +1,23 @@
+#include <stdio.h>
+int main(){
 
 
 
-#tmertlrmr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    return 0;
+}
